@@ -6,6 +6,8 @@ npm-debug.log
 .terraform.lock.hcl
 *.tfstate
 *.tfstate.*
+*.tfvars
+*.tfvars.*
 crash.log
 tfplan
 * .tfplan
